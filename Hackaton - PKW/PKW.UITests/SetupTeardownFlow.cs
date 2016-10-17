@@ -21,12 +21,6 @@ namespace PKW.UITests
         }
 
         [TestCleanup]
-        public static void SetupFixture(TestContext context)
-        {
-            Log.WriteLine("+++++     Fixture Setup");
-        }
-
-        [TestCleanup]
         public static void TeardownFixture()
         {
             Log.WriteLine("+++++     TestCleanup");

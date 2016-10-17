@@ -18,33 +18,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKW.App.IntegrationTests", "PKW.App.IntegrationTests\PKW.App.IntegrationTests.csproj", "{5E3AD2C6-BAA9-43DD-9617-3B671D5259DC}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 8
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfs:8080/tfs/krollontrack
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = PKW.UITests\\PKW.UITests.csproj
-		SccProjectName1 = PKW.UITests
-		SccLocalPath1 = PKW.UITests
-		SccProjectUniqueName2 = PKW.Contracts\\PKW.Contracts.csproj
-		SccProjectName2 = PKW.Contracts
-		SccLocalPath2 = PKW.Contracts
-		SccProjectUniqueName3 = PKW.App\\PKW.App.csproj
-		SccProjectName3 = PKW.App
-		SccLocalPath3 = PKW.App
-		SccProjectUniqueName4 = PKW.ControlCenter\\PKW.ControlCenter.csproj
-		SccProjectName4 = PKW.ControlCenter
-		SccLocalPath4 = PKW.ControlCenter
-		SccProjectUniqueName5 = VotingService.Test\\PKW.ControlCenter.UnitTests.csproj
-		SccProjectName5 = VotingService.Test
-		SccLocalPath5 = VotingService.Test
-		SccProjectUniqueName6 = PKW.App.UnitTests\\PKW.App.UnitTests.csproj
-		SccProjectName6 = PKW.App.UnitTests
-		SccLocalPath6 = PKW.App.UnitTests
-		SccProjectUniqueName7 = PKW.App.IntegrationTests\\PKW.App.IntegrationTests.csproj
-		SccProjectName7 = PKW.App.IntegrationTests
-		SccLocalPath7 = PKW.App.IntegrationTests
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
