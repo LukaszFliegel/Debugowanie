@@ -20,10 +20,10 @@ namespace PKW.UITests
             Log.WriteLine("+++++     Fixture Setup");
         }
 
-        [TestCleanup]
+        [ClassCleanup]
         public static void TeardownFixture()
         {
-            Log.WriteLine("+++++     TestCleanup");
+            Log.WriteLine("+++++     Fixture Teardown");
             Log.Close();
         }
 

@@ -19,7 +19,7 @@ namespace PKW.App
         {
             IUnityContainer container = new UnityContainer();
             UnityBootstrapper.Register(container);
-            System.Diagnostics.Debugger.Break();
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
